@@ -10,6 +10,8 @@
     -Axios
     
 ## 3. 소개
+![Animation](https://user-images.githubusercontent.com/76080411/120317941-3161ef80-c31a-11eb-8794-d23e891468ff.gif)
+사이트에서 제공하는 암호화폐의 정보들을 검색을 통해 찾아볼 수 있는 기능을 사용자에게 제공합니다.
   
 ## 4. 설치
     yarn add
