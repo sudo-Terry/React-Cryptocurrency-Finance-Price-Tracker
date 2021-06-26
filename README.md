@@ -11,7 +11,13 @@
     
 ## 3. 소개 📑
 ![Animation](https://user-images.githubusercontent.com/76080411/120317941-3161ef80-c31a-11eb-8794-d23e891468ff.gif)
-사이트에서 제공하는 암호화폐의 정보들을 검색을 통해 찾아볼 수 있는 기능을 사용자에게 제공합니다.
+사이트에서 제공하는 암호화폐의 정보들을 검색을 통해 찾아볼 수 있는 기능을 사용자에게 제공합니다.<br/><br/><br/><br/>
+
+[API 제공 주소](https://www.coingecko.com/ko/api#explore-api, "API 제공 주소")<br/>
+코인과 관련된 정보들은 [코인게코](https://www.coingecko.com/ko, "coingecko.com")에게 Ajax 요청을 하여 받아옵니다. 
+React는 내장하는 HTTP Client가 없으므로, 외부 라이브러리인 Axios를 활용하여 http요청을 하였습니다.
+
+<br/>
   
 ## 4. 설치 및 환경 💻
     yarn add
